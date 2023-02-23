@@ -38,7 +38,7 @@ public class GameManager : MonoBehaviour
     private void GameOver()
     {
         print("Game over!");
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
 
